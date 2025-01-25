@@ -1,0 +1,48 @@
+[
+
+    {
+        "id": 1,
+        "twitch_id": 507326857,
+        "email": "spiele197915@web.de",
+        "display_name": "Sturdy1979",
+        "role": 3,
+        "is_active": 1,
+        "created_at": "2025-01-04 16:36:14"
+    },
+    {
+        "id": 2,
+        "twitch_id": 86551629 ,
+        "email": "miwi.freebsd@googlemail.com",
+        "display_name": "MiwiTV",
+        "role": 0,
+        "is_active": 1,
+        "created_at": "2025-01-04 16:36:14"
+    },
+    {
+        "id": 4,
+        "twitch_id": 182128622,
+        "email": "djccloppenburg@gmail.com",
+        "display_name": "Wondows",
+        "role": 2,
+        "is_active": 1,
+        "created_at": "2025-01-04 16:36:14"
+    },
+    {
+        "id": 11,
+        "twitch_id": 45028975 ,
+        "email": "yo.cruz.salazar@gmail.com",
+        "display_name": "vJoeBlack",
+        "role": 0,
+        "is_active": 1,
+        "created_at": "2025-01-04 16:36:14"
+    },
+    {
+        "id": 19,
+        "twitch_id": 79636291 ,
+        "email": "sammyking169@googlemail.com",
+        "display_name": "evo1i_",
+        "role": 3,
+        "is_active": 1,
+        "created_at": "2025-01-04 19:20:45"
+    }
+]

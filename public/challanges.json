@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "header": {
+      "title": "Standard Account + PvE-Modus mit Stash-Erweiterungen",
+      "description": "Jo, WAS geht ab meine zuschauer<br /> euer Miwi wieder am start.",
+      "created_at": "2025.07.01",
+      "challange_end": "2025.08.31"
+    },
+    "sections": [
+      {
+        "title": "Allgemeine Herausforderungen",
+        "items": [
+          {
+            "text": "Mein Charakter wird ein USEC sein.",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Zwischen Level 15 und 25 dürfen nur AK-Builds genutzt werden (Ausnahme: waffenbezogene Quests).",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Bis Level 42 keine Items von Teammitgliedern (Ausnahme: Heilung/Stims und Items mit found in Raid status).",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Alle Quests einschließlich Lightkeeper-Quests müssen abgeschlossen werden.",
+            "completed": false,
+            "subchallenges": [
+              {
+                "text": "Lightkeeper freischalten.",
+                "completed": false
+              },
+              {
+                "text": "Letzte Lightkeeper-Quest abschließen.",
+                "completed": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Solo-Restriktionen",
+        "items": [
+          {
+            "text": "Die ersten 20 Level werden komplett solo gespielt.",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Broadcast 1 ( Operating room key )",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "The Door ( Rusted bloody key )",
+            "completed": false,
+            "subchallenges": []
+          },
+          {
+            "text": "Quests, die das Rogue-Camp auf Lighthouse betreffen (z. B. Dächer) (ich muss lernen, das alleine zu packen).",
+            "completed": false,
+            "subchallenges": []
+          },
+          {
+            "text": "Alle Kappa-relevanten Boss-Quests.",
+            "completed": false,
+            "subchallenges": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "header": {
+      "title": "Standard Account + PvE-Modus mit Stash-Erweiterungen",
+      "description": "Jo, WAS geht ab meine zuschauer<br /> euer Miwi wieder am start.",
+      "created_at": "2025.07.01",
+      "challange_end": "2025.08.31"
+    },
+    "sections": [
+      {
+        "title": "Allgemeine Herausforderungen",
+        "items": [
+          {
+            "text": "Mein Charakter wird ein USEC sein.",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Zwischen Level 15 und 25 dürfen nur AK-Builds genutzt werden (Ausnahme: waffenbezogene Quests).",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Bis Level 42 keine Items von Teammitgliedern (Ausnahme: Heilung/Stims und Items mit found in Raid status).",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Alle Quests einschließlich Lightkeeper-Quests müssen abgeschlossen werden.",
+            "completed": false,
+            "subchallenges": [
+              {
+                "text": "Lightkeeper freischalten.",
+                "completed": false
+              },
+              {
+                "text": "Letzte Lightkeeper-Quest abschließen.",
+                "completed": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Solo-Restriktionen",
+        "items": [
+          {
+            "text": "Die ersten 20 Level werden komplett solo gespielt.",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "Broadcast 1 ( Operating room key )",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "text": "The Door ( Rusted bloody key )",
+            "completed": false,
+            "subchallenges": []
+          },
+          {
+            "text": "Quests, die das Rogue-Camp auf Lighthouse betreffen (z. B. Dächer) (ich muss lernen, das alleine zu packen).",
+            "completed": false,
+            "subchallenges": []
+          },
+          {
+            "text": "Alle Kappa-relevanten Boss-Quests.",
+            "completed": false,
+            "subchallenges": []
+          }
+        ]
+      }
+    ]
+  }
+]
