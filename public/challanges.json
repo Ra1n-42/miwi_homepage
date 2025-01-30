@@ -1,186 +1,76 @@
 [
   {
-    "id": "1",
+    "id": "10",
     "header": {
       "title": "Standard Account + PvE-Modus mit Stash-Erweiterungen",
-      "description": "Jo, WAS geht ab meine zuschauer<br /> euer Miwi wieder am start.",
-      "created_at": "2025.07.01",
-      "challange_end": "2025.08.31"
+      "description": "Dieses Vorhaben wird ein langfristiges Projekt, da ich denke, dass es mein letzter <strong style=\"color:yellow;\">PvE-Run</strong> sein wird. Mein Plan ist es, ab dem Sommer-Wipe 2025 in den PvP-Modus zu wechseln. Aktuell nutze ich den PvE-Modus, um das Spiel besser zu lernen und mich optimal darauf vorzubereiten. Sollte sich daran etwas ändern, werden wir das gemeinsam als Community besprechen.",
+      "created_at": "01-07-2025",
+      "challange_end": "31-08-2025"
     },
     "sections": [
       {
-        "id": "1",
+        "id": "35",
         "title": "Allgemeine Herausforderungen",
         "items": [
-          {
-            "id": "1",
-            "text": "Mein Charakter wird ein USEC sein.",
-            "completed": true,
+          { 
+            "id": "92",
+            "text": "Alle Quests einschließlich Lightkeeper-Quests müssen abgeschlossen werden.",
+            "completed": false,
             "subchallenges": []
           },
           {
-            "id": "2",
-            "text": "Zwischen Level 15 und 25 dürfen nur AK-Builds genutzt werden (Ausnahme: waffenbezogene Quests).",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "3",
+            "id": "91",
             "text": "Bis Level 42 keine Items von Teammitgliedern (Ausnahme: Heilung/Stims und Items mit found in Raid status).",
             "completed": true,
             "subchallenges": []
           },
           {
-            "id": "4",
-            "text": "Alle Quests einschließlich Lightkeeper-Quests müssen abgeschlossen werden.",
-            "completed": false,
-            "subchallenges": [
-              {
-                "id": "1",
-                "text": "Lightkeeper freischalten.",
-                "completed": false
-              },
-              {
-                "id": "2",
-                "text": "Letzte Lightkeeper-Quest abschließen.",
-                "completed": false
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "id": "2",
-        "title": "Solo-Restriktionen",
-        "items": [
-          {
-            "id": "5",
-            "text": "Die ersten 20 Level werden komplett solo gespielt.",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "6",
-            "text": "Broadcast 1 ( Operating room key )",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "7",
-            "text": "The Door ( Rusted bloody key )",
-            "completed": false,
-            "subchallenges": []
-          },
-          {
-            "id": "8",
-            "text": "Quests, die das Rogue-Camp auf Lighthouse betreffen (z. B. Dächer) (ich muss lernen, das alleine zu packen).",
-            "completed": false,
-            "subchallenges": []
-          },
-          {
-            "id": "9",
-            "text": "Alle Kappa-relevanten Boss-Quests.",
-            "completed": false,
-            "subchallenges": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "header": {
-      "title": "Standard Account + PvE-Modus mit Stash-Erweiterungen",
-      "description": "Jo, WAS geht ab meine zuschauer<br /> euer Miwi wieder am start.",
-      "created_at": "2025.07.01",
-      "challange_end": "2025.08.31"
-    },
-    "sections": [
-      {
-        "id": "3",
-        "title": "Allgemeine Herausforderungen",
-        "items": [
-          {
-            "id": "10",
-            "text": "Mein Charakter wird ein USEC sein.",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "11",
+            "id": "90",
             "text": "Zwischen Level 15 und 25 dürfen nur AK-Builds genutzt werden (Ausnahme: waffenbezogene Quests).",
             "completed": true,
             "subchallenges": []
           },
           {
-            "id": "12",
-            "text": "Bis Level 42 keine Items von Teammitgliedern (Ausnahme: Heilung/Stims und Items mit found in Raid status).",
+            "id": "89",
+            "text": "Mein Charakter wird ein USEC sein.",
             "completed": true,
             "subchallenges": []
-          },
-          {
-            "id": "13",
-            "text": "Alle Quests einschließlich Lightkeeper-Quests müssen abgeschlossen werden.",
-            "completed": false,
-            "subchallenges": [
-              {
-                "id": "1",
-                "text": "Lightkeeper freischalten.",
-                "completed": false
-              },
-              {
-                "id": "2",
-                "text": "Letzte Lightkeeper-Quest abschließen.",
-                "completed": false
-              }
-            ]
           }
         ]
       },
       {
-        "id": "4",
+        "id": "34",
         "title": "Solo-Restriktionen",
         "items": [
           {
-            "id": "14",
-            "text": "Die ersten 20 Level werden komplett solo gespielt.",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "15",
-            "text": "Broadcast 1 ( Operating room key )",
-            "completed": true,
-            "subchallenges": []
-          },
-          {
-            "id": "16",
-            "text": "The Door ( Rusted bloody key )",
+            "id": "88",
+            "text": "Alle Kappa-relevanten Boss-Quests.",
             "completed": false,
             "subchallenges": []
           },
           {
-            "id": "17",
+            "id": "87",
             "text": "Quests, die das Rogue-Camp auf Lighthouse betreffen (z. B. Dächer) (ich muss lernen, das alleine zu packen).",
             "completed": false,
             "subchallenges": []
           },
           {
-            "id": "18",
-            "text": "Alle Kappa-relevanten Boss-Quests.",
+            "id": "86",
+            "text": "The Door ( Rusted bloody key )",
             "completed": false,
-            "subchallenges": [
-              {
-                "id": "3",
-                "text": "Solo Killa & Tagilla",
-                "completed": false
-              },
-              {
-                "id": "5",
-                "text": "Solo Shturman Teabaggen. :D",
-                "completed": false
-              }
-            ]
+            "subchallenges": []
+          },
+          {
+            "id": "85",
+            "text": "Broadcast 1 ( Operating room key )",
+            "completed": true,
+            "subchallenges": []
+          },
+          {
+            "id": "84",
+            "text": "Die ersten 20 Level werden komplett solo gespielt.",
+            "completed": true,
+            "subchallenges": []
           }
         ]
       }
